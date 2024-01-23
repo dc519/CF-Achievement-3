@@ -105,3 +105,4 @@ LEFT JOIN
 GROUP BY D.country
 ORDER BY all_customer_count DESC
 LIMIT 5
+
